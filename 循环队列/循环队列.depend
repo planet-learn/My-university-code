@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699599753 source:c:\users\tcx\desktop\c代码\c++ 的数据结构与算法\循环队列\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
